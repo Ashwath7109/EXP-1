@@ -73,7 +73,8 @@ a.   KVL:<img width="1400" height="849" alt="7" src="https://github.com/user-att
  
 
 
-b.  KCL:![Uploading 8.jpeg…]()
+b.  KCL:<img width="1323" height="975" alt="8" src="https://github.com/user-attachments/assets/671dbe62-0611-4515-87e8-08c2f8f7b160" />
+
 
 
 
